@@ -1,5 +1,5 @@
 export default function About() {
     return(
-        <p>About</p>
+        <section className="section bg-yellow-200">About</section>
     )
 }
