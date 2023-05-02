@@ -4,6 +4,9 @@ import WomanImg from "../img/home/woman.png"
 
 import  {Link} from "react-router-dom";
 
+import {motion} from "framer-motion"
+import {} from "../transitions"
+
 export default function Home() {
     return(
         <>
