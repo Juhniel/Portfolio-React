@@ -13,10 +13,13 @@ export default {
       xl: '1192px',
     },
     extend: {
+      fontFamily: {
+        primary: ['Playfair Display', 'serif'],
+        secondary: ['Mulish', 'sans-serif'],
+      },
       colors: {
         primary: '#0E1112',
         grey: '#484B4B',
-
         accent: '#EEF7F9',
       },
     },
