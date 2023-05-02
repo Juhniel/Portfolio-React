@@ -3,7 +3,7 @@ import About from "../pages/About"
 import Portfolio from "../pages/Portfolio"
 import Contact from "../pages/Contact"
 
-import { Routes, Route, useLocation } from "react-router-dom"
+import { Routes, Route} from "react-router-dom"
 
 export default function AnimRoutes() {
     return (
