@@ -27,7 +27,7 @@ export default function Contact() {
             className='lg:flex-1 lg:pt-32 px-4'
           >
             <h1 className='h1'>Contact me</h1>
-            <p className='mb-12'>I would love to get suggestions from you.</p>
+            <p className='mb-12'>I would love to hear from you</p>
             {/* form */}
             <form className='flex flex-col gap-y-4'>
               <div className='flex gap-x-10'>
@@ -48,7 +48,7 @@ export default function Contact() {
                 placeholder='Your message'
               />
               <button className='btn mb-[30px] mx-auto lg:mx-0 self-start'>
-                Send it
+                Send 
               </button>
             </form>
           </div>
